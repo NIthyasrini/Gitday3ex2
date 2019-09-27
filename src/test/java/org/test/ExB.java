@@ -5,4 +5,7 @@ public class ExB {
 		System.out.println("Hi");
 
 	}
+	private void method2() {
+		System.out.println("Hello");
+	}	
 }
